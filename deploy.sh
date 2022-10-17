@@ -4,10 +4,6 @@
 #
 #  Description : déploiement à la volée de conteneur docker
 #
-#  Auteur : Xavier
-#
-#  Date : 28/12/2018 - V2.0
-#
 ###########################################################
 
 
